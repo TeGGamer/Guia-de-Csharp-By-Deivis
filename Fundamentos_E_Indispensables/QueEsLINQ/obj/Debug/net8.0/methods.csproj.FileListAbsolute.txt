@@ -1,0 +1,14 @@
+/home/deiviscsharp/methods/obj/Debug/net8.0/methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/deiviscsharp/methods/obj/Debug/net8.0/methods.AssemblyInfoInputs.cache
+/home/deiviscsharp/methods/obj/Debug/net8.0/methods.AssemblyInfo.cs
+/home/deiviscsharp/methods/obj/Debug/net8.0/methods.csproj.CoreCompileInputs.cache
+/home/deiviscsharp/methods/bin/Debug/net8.0/methods
+/home/deiviscsharp/methods/bin/Debug/net8.0/methods.deps.json
+/home/deiviscsharp/methods/bin/Debug/net8.0/methods.runtimeconfig.json
+/home/deiviscsharp/methods/bin/Debug/net8.0/methods.dll
+/home/deiviscsharp/methods/bin/Debug/net8.0/methods.pdb
+/home/deiviscsharp/methods/obj/Debug/net8.0/methods.dll
+/home/deiviscsharp/methods/obj/Debug/net8.0/refint/methods.dll
+/home/deiviscsharp/methods/obj/Debug/net8.0/methods.pdb
+/home/deiviscsharp/methods/obj/Debug/net8.0/methods.genruntimeconfig.cache
+/home/deiviscsharp/methods/obj/Debug/net8.0/ref/methods.dll

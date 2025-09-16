@@ -1,0 +1,14 @@
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/example_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/example_LINQ.AssemblyInfoInputs.cache
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/example_LINQ.AssemblyInfo.cs
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/example_LINQ.csproj.CoreCompileInputs.cache
+/home/deiviscsharp/example_LINQ/bin/Debug/net8.0/example_LINQ
+/home/deiviscsharp/example_LINQ/bin/Debug/net8.0/example_LINQ.deps.json
+/home/deiviscsharp/example_LINQ/bin/Debug/net8.0/example_LINQ.runtimeconfig.json
+/home/deiviscsharp/example_LINQ/bin/Debug/net8.0/example_LINQ.dll
+/home/deiviscsharp/example_LINQ/bin/Debug/net8.0/example_LINQ.pdb
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/example_LINQ.dll
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/refint/example_LINQ.dll
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/example_LINQ.pdb
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/example_LINQ.genruntimeconfig.cache
+/home/deiviscsharp/example_LINQ/obj/Debug/net8.0/ref/example_LINQ.dll

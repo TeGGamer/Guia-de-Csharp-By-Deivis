@@ -1,0 +1,14 @@
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/example_LInqq.GeneratedMSBuildEditorConfig.editorconfig
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/example_LInqq.AssemblyInfoInputs.cache
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/example_LInqq.AssemblyInfo.cs
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/example_LInqq.csproj.CoreCompileInputs.cache
+/home/deiviscsharp/example_LInqq/bin/Debug/net8.0/example_LInqq
+/home/deiviscsharp/example_LInqq/bin/Debug/net8.0/example_LInqq.deps.json
+/home/deiviscsharp/example_LInqq/bin/Debug/net8.0/example_LInqq.runtimeconfig.json
+/home/deiviscsharp/example_LInqq/bin/Debug/net8.0/example_LInqq.dll
+/home/deiviscsharp/example_LInqq/bin/Debug/net8.0/example_LInqq.pdb
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/example_LInqq.dll
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/refint/example_LInqq.dll
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/example_LInqq.pdb
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/example_LInqq.genruntimeconfig.cache
+/home/deiviscsharp/example_LInqq/obj/Debug/net8.0/ref/example_LInqq.dll
