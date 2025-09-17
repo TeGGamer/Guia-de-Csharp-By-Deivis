@@ -1,0 +1,14 @@
+/home/deiviscsharp/TrabajoClases/bin/Debug/net8.0/TrabajoClases
+/home/deiviscsharp/TrabajoClases/bin/Debug/net8.0/TrabajoClases.deps.json
+/home/deiviscsharp/TrabajoClases/bin/Debug/net8.0/TrabajoClases.runtimeconfig.json
+/home/deiviscsharp/TrabajoClases/bin/Debug/net8.0/TrabajoClases.dll
+/home/deiviscsharp/TrabajoClases/bin/Debug/net8.0/TrabajoClases.pdb
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/TrabajoClases.GeneratedMSBuildEditorConfig.editorconfig
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/TrabajoClases.AssemblyInfoInputs.cache
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/TrabajoClases.AssemblyInfo.cs
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/TrabajoClases.csproj.CoreCompileInputs.cache
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/TrabajoClases.dll
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/refint/TrabajoClases.dll
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/TrabajoClases.pdb
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/TrabajoClases.genruntimeconfig.cache
+/home/deiviscsharp/TrabajoClases/obj/Debug/net8.0/ref/TrabajoClases.dll
