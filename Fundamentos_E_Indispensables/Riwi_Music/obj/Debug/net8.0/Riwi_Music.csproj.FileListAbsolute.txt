@@ -1,0 +1,14 @@
+/home/deisv/Riwi_Music/bin/Debug/net8.0/Riwi_Music
+/home/deisv/Riwi_Music/bin/Debug/net8.0/Riwi_Music.deps.json
+/home/deisv/Riwi_Music/bin/Debug/net8.0/Riwi_Music.runtimeconfig.json
+/home/deisv/Riwi_Music/bin/Debug/net8.0/Riwi_Music.dll
+/home/deisv/Riwi_Music/bin/Debug/net8.0/Riwi_Music.pdb
+/home/deisv/Riwi_Music/obj/Debug/net8.0/Riwi_Music.GeneratedMSBuildEditorConfig.editorconfig
+/home/deisv/Riwi_Music/obj/Debug/net8.0/Riwi_Music.AssemblyInfoInputs.cache
+/home/deisv/Riwi_Music/obj/Debug/net8.0/Riwi_Music.AssemblyInfo.cs
+/home/deisv/Riwi_Music/obj/Debug/net8.0/Riwi_Music.csproj.CoreCompileInputs.cache
+/home/deisv/Riwi_Music/obj/Debug/net8.0/Riwi_Music.dll
+/home/deisv/Riwi_Music/obj/Debug/net8.0/refint/Riwi_Music.dll
+/home/deisv/Riwi_Music/obj/Debug/net8.0/Riwi_Music.pdb
+/home/deisv/Riwi_Music/obj/Debug/net8.0/Riwi_Music.genruntimeconfig.cache
+/home/deisv/Riwi_Music/obj/Debug/net8.0/ref/Riwi_Music.dll
